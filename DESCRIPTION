@@ -1,7 +1,7 @@
 Package: Conversion
 Title: Velocity Conversion
 Version: 0.0.0.9000
-Authors@R: person("Fabian", "Walthes", email = "fabian.walthes@gmail.com")
+Authors@R: c(person("Fabian", "Walthes", role = c("aut", "cre"), email = "fabian.walthes@gmail.com"))
 Description: This package contains multiple functions to convert units of velocity
 License:x
 Encoding: UTF-8
